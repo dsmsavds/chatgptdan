@@ -1,4 +1,4 @@
-# ChatGPT DAN (Do Anything Now) Tool
+# ChatGPT Tool 🛠️
 
 - ChatGPT <https://chat.openai.com/>
 
@@ -8,7 +8,7 @@ It seems to help to completely clear your "Application Cache" (Cookies, Storage,
 
 You can do this from the browser Developer Tools console in the "Applications" tab.
 
-If the bot isnot answering as it has, try to answer again.
+**If the bot isnot answering as it has, try to ask the question again.**
 
 
 
