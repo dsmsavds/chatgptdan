@@ -1,14 +1,14 @@
 # ChatGPT Tool 🛠️
 
-- ChatGPT <https://chat.openai.com/>
+- ChatGPT 💬 https://chat.openai.com/
 
-## Note
+## Note 📝
 
 It seems to help to completely clear your "Application Cache" (Cookies, Storage, etc) for https://chat.openai.com.
 
 You can do this from the browser Developer Tools console in the "Applications" tab.
 
-**If the bot isnot answering as it has, try to ask the question again.**
+**💡 If the bot is not answering as it has, try to ask the question again.**
 
 
 
