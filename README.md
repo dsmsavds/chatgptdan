@@ -8,7 +8,7 @@ It seems to help to completely clear your "Application Cache" (Cookies, Storage,
 
 You can do this from the browser Developer Tools console in the "Applications" tab.
 
-**💡 If the bot is not answering as it has, try to ask the question again.**
+**💡 If the bot is not responding as expected, try asking the question again.**
 
 
 
