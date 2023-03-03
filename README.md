@@ -8,7 +8,7 @@ It seems to help to completely clear your "Application Cache" (Cookies, Storage,
 
 You can do this from the browser Developer Tools console in the "Applications" tab.
 
-## "Jailbreak" Prompts
+## "DAN" Tools for ChatGPT
 
 Some of these work better (or at least differently) than others. They all exploit the "role play" training model.
 
