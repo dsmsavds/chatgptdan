@@ -8,11 +8,13 @@ It seems to help to completely clear your "Application Cache" (Cookies, Storage,
 
 You can do this from the browser Developer Tools console in the "Applications" tab.
 
+If the bot isnot answering as it has, try to answer again.
+
 
 
 ## "DAN" Tools for ChatGPT
 
-These tools, you need to send to ChatGPT and then ask the questions. These arelike roleplays, ChatGPT will answer as DAN/Jailbreak.
+These tools, you need to send to ChatGPT and then ask the questions. These are like roleplays, ChatGPT will answer as DAN/Jailbreak.
 
 <ul>
 <details>
